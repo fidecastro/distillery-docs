@@ -39,6 +39,7 @@ The following LoRAs are available for our standard models (bloodymary, vodka and
 | ```darktheme``` | [rMada](https://civitai.com/user/rMada/models) | Darker images | ```None``` | [Link](https://civitai.com/models/87575) |
 | ```deep``` | [Ostris](https://ostris.com/) | Depth of field: deep | ```None``` | [Link](https://civitai.com/models/135380?modelVersionId=149218) |
 | ```detail``` | [rMada](https://civitai.com/user/rMada/models) | Adds details to images | ```None``` | [Link](https://civitai.com/models/87378/difconsistency-detail-pack) |
+| ```dragon``` | [IronCatMan](https://civitai.com/user/IronCatMan/models) | Adds dragons as characters | ```dragon``` | [Link](https://civitai.com/models/30151?modelVersionId=36321) |
 | ```eldenring``` | [daemonrat](https://civitai.com/user/daemonrat/models) | Elden Ring style | ```elden ring style``` | [Link](https://civitai.com/models/7482/elden-ring-lora-extraction) |
 | ```esoteric``` | [Ciro_Negrogni](https://linktr.ee/ciro_negrogni) | Victorian-style occultist/esoteric images | ```victorian_esoteric``` | [Link](https://civitai.com/models/124678/victorian-esoteric) |
 | ```fairytale``` | [konyconi](https://civitai.com/user/konyconi/models) | Fairy tale aesthetics, by konyconi | ```FairyTaleAI``` | [Link](https://civitai.com/models/42260/fairytaleai) |
