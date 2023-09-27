@@ -1,6 +1,10 @@
 site_name: Distillery Documents
 theme:
   name: material
+  custom_fonts:
+    feature:
+      titles: https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap
+      text: https://fonts.googleapis.com/css2?family=Roboto&display=swap
   features:
     - navigation.tabs
     - navigation.sections
